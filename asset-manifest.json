@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mflix/static/css/main.dbf6e0e8.chunk.css",
-    "main.js": "/Mflix/static/js/main.9480c6fd.chunk.js",
-    "main.js.map": "/Mflix/static/js/main.9480c6fd.chunk.js.map",
+    "main.js": "/Mflix/static/js/main.8e2abd6e.chunk.js",
+    "main.js.map": "/Mflix/static/js/main.8e2abd6e.chunk.js.map",
     "runtime-main.js": "/Mflix/static/js/runtime-main.1b360c17.js",
     "runtime-main.js.map": "/Mflix/static/js/runtime-main.1b360c17.js.map",
     "static/js/2.d0ede364.chunk.js": "/Mflix/static/js/2.d0ede364.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.1b360c17.js",
     "static/js/2.d0ede364.chunk.js",
     "static/css/main.dbf6e0e8.chunk.css",
-    "static/js/main.9480c6fd.chunk.js"
+    "static/js/main.8e2abd6e.chunk.js"
   ]
 }
