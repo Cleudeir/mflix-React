@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Mflix/static/css/main.dbf6e0e8.chunk.css",
-    "main.js": "/Mflix/static/js/main.8e2abd6e.chunk.js",
-    "main.js.map": "/Mflix/static/js/main.8e2abd6e.chunk.js.map",
+    "main.css": "/Mflix/static/css/main.b81554ec.chunk.css",
+    "main.js": "/Mflix/static/js/main.e687ad78.chunk.js",
+    "main.js.map": "/Mflix/static/js/main.e687ad78.chunk.js.map",
     "runtime-main.js": "/Mflix/static/js/runtime-main.1b360c17.js",
     "runtime-main.js.map": "/Mflix/static/js/runtime-main.1b360c17.js.map",
     "static/js/2.d0ede364.chunk.js": "/Mflix/static/js/2.d0ede364.chunk.js",
     "static/js/2.d0ede364.chunk.js.map": "/Mflix/static/js/2.d0ede364.chunk.js.map",
     "index.html": "/Mflix/index.html",
-    "static/css/main.dbf6e0e8.chunk.css.map": "/Mflix/static/css/main.dbf6e0e8.chunk.css.map",
+    "static/css/main.b81554ec.chunk.css.map": "/Mflix/static/css/main.b81554ec.chunk.css.map",
     "static/js/2.d0ede364.chunk.js.LICENSE.txt": "/Mflix/static/js/2.d0ede364.chunk.js.LICENSE.txt",
     "static/media/logo.7dcbd3ff.png": "/Mflix/static/media/logo.7dcbd3ff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1b360c17.js",
     "static/js/2.d0ede364.chunk.js",
-    "static/css/main.dbf6e0e8.chunk.css",
-    "static/js/main.8e2abd6e.chunk.js"
+    "static/css/main.b81554ec.chunk.css",
+    "static/js/main.e687ad78.chunk.js"
   ]
 }
